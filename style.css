@@ -1,0 +1,32 @@
+﻿table.type09 {
+    border-collapse: collapse;
+    text-align: center;
+    line-height: 1.5;
+
+}
+table.type09 thead th {
+
+    font-weight: bold;
+    vertical-align: mid;
+    color: #369;
+    border-bottom: 3px solid #036;
+}
+.red {
+	color: Tomato;
+}
+.yellow {
+	color: Orange;
+}
+table.type09 tbody th {
+    width: 1px;
+    font-weight: bold;
+    vertical-align: mid;
+    border-bottom: 1px solid #ccc;
+    background: #f3f6f7;
+    color: #000000
+}
+table.type09 td {
+    padding: 5px;
+    vertical-align: mid;
+    border-bottom: 1px solid #ccc;
+}
